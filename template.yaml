@@ -1,0 +1,8 @@
+language: echo-service
+function_name: echo-service
+function_type: Public
+image_name: davidleitw/echo-service:latest
+gateway_url: localhost
+port: 8080
+namespace: default
+support_verbs: []
